@@ -239,7 +239,7 @@ Among all evaluated models, the Gradient Boosting model achieved the best overal
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/German-Electricity-Forecasting.git
+git clone https://github.com/yeluguriakashreddy/Time-Series-Modelling-Case-Study.git
 ```
 
 ### Install Packages
